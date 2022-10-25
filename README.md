@@ -8,4 +8,8 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Annie](https://github.com/annleystanley) for the Lighthouse Labs Data Science Bootcamp.
+
+## Table of Contents
+* Python Course
+* Unit 1
