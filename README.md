@@ -12,4 +12,6 @@ This repository contains all of the notes taken by [Annie](https://github.com/an
 
 ## Table of Contents
 * Python Course
-* Unit 1
+    * Unit 1
+        * [Day 1](/Unit_1/Day_1/)
+        
