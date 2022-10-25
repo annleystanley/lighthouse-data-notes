@@ -11,7 +11,6 @@
 This repository contains all of the notes taken by [Annie](https://github.com/annleystanley) for the Lighthouse Labs Data Science Bootcamp.
 
 ## Table of Contents
-* Python Course
-    * Unit 1
-        * [Day 1](/Unit_1/Day_1/)
-        
+* [Python Course](/Python_Unit/)
+    * [Unit 1](/Python_Unit/Unit_1/)
+        * [Day 1](/Python_Unit/Unit_1/Day_1/)
