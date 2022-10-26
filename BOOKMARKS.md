@@ -11,6 +11,7 @@
 -   [MySQL Database Tutorial (Bucky Roberts - YouTube)](https://www.youtube.com/watch?v=KgiCxe-ZW8o&list=PL32BC9C878BA72085)
 -   [Learn SQL (CodeAcademy)](https://join.codecademy.com/learn/learn-sql/)
 -   [SQl Tutorial - Full Database Course for Beginners (freeCodeCamp - YouTube)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+-   [SQL Study Guide (LeetCode)](https://leetcode.com/study-plan/sql/?progress=xa8v31fe)
 
 ### Python
 -   [Python Keywords: An Introduction (Real Python)](https://realpython.com/python-keywords/)

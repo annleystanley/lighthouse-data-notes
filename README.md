@@ -5,8 +5,9 @@
 This repository contains all of the notes taken by [Annie](https://github.com/annleystanley) for the Lighthouse Labs Data Science Bootcamp.
 
 # Table of Contents
+-   [General Handy Bookmarks](/lighthouse-data-notes/BOOKMARKS.md)
+
 -   [Python Course](/Python_Unit/)
--   [Bookmarks With Handy References](/Python_Unit/BOOKMARKS.md)
     -   [Unit 1](/Python_Unit/Unit_1/)
         -   [Day 1](/Python_Unit/Unit_1/Day_1)
             -    *(Intro, Variables & Strings)*
